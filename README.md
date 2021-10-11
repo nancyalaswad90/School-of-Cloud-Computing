@@ -21,3 +21,23 @@
 
 - [Prepare for the CompTIA Network+ (N10-007) Certification](https://github.com/nancyalaswad90/Prepare-for-the-CompTIA-Network-N10-007-Certification)
 
+
+
+
+.
+
+
+| **Online Education Platforms**|
+ | ------------ | 
+
+| **[Udacity ]()** | ------------ |** ------------** |  ** ------------**|  ** ------------**| ** ------------**| 
+| ------------ | ------------ | ------------ |------------ | ------------ | ------------ |
+
+
+.
+
+
+> ## YouTube
+
+ - [Google Cloud Platform ( GCP ) Course](https://www.youtube.com/watch?v=gud65lqebrc)
+
