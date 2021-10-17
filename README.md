@@ -46,3 +46,5 @@
 .
 
 ###  Mahara-Tech: [Dashboard (GUEST)](https://maharatech.gov.eg/?)
+
+ - [Get started with IBM Cloud Pak for Data](https://developer.ibm.com/learningpaths/cloud-pak-for-data-learning-path/)
