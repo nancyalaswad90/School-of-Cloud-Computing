@@ -42,6 +42,7 @@
  - [Google Cloud Platform ( GCP ) Course](https://www.youtube.com/watch?v=gud65lqebrc)
 
 
+ - [Edureka // Azure Tutorial For Beginners  10/2021](https://www.youtube.com/watch?v=6Xsoij6qWdE)
 
 .
 
