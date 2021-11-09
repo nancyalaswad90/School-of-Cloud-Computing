@@ -49,6 +49,9 @@
 
  - [Edureka // Azure Tutorial For Beginners  10/2021](https://www.youtube.com/watch?v=6Xsoij6qWdE)
 
+
+- https://youtu.be/Ws6x_feqVgI
+
 .
 
 ###  Mahara-Tech: [Dashboard (GUEST)](https://maharatech.gov.eg/?)
