@@ -30,7 +30,7 @@
 | **Online Education Platforms**|
  | ------------ | 
 
-| **[Udacity ]()** | **[Cloud Guru for free](https://acloudguru.com/content/cloud-learning-for-free?mkt_tok=MzA2LURVUC03NDUAAAF_RgYqpjvbFqWanxHfRJn8fe5qWiA5_Luvmsm-eRlTRFDJY3yE5QKkxVx3DtuTouY_wE-SwddoScvf2ulV6EJomVwW0DaOPYPYVj8JP_dHigMxEHLT&oid=&promo=&utm_campaign=freemium&utm_content=&utm_medium=email&utm_source=ps&utm_term=&vid=7014Q000001ySrRQAU)**|** [Get AWS Certified: Associate Challenge](https://pages.awscloud.com/global-ln-gc-traincert-certification-associate-challenge-2022-reg)** |  ** ------------**|  ** ------------**| ** ------------**| 
+| **[Udacity ]()** | **[Cloud Guru for free](https://acloudguru.com/content/cloud-learning-for-free?mkt_tok=MzA2LURVUC03NDUAAAF_RgYqpjvbFqWanxHfRJn8fe5qWiA5_Luvmsm-eRlTRFDJY3yE5QKkxVx3DtuTouY_wE-SwddoScvf2ulV6EJomVwW0DaOPYPYVj8JP_dHigMxEHLT&oid=&promo=&utm_campaign=freemium&utm_content=&utm_medium=email&utm_source=ps&utm_term=&vid=7014Q000001ySrRQAU)**|**[Get AWS Certified: Associate Challenge](https://pages.awscloud.com/global-ln-gc-traincert-certification-associate-challenge-2022-reg)** & [The email](https://mail.google.com/mail/u/0/?tab=rm&ogbl#all/FMfcgzGmvLVKrtTwrNflxQtwtJSZrplg)|  ** ------------**|  ** ------------**| ** ------------**| 
 | ------------ | ------------ | ------------ |------------ | ------------ | ------------ |
 
 
